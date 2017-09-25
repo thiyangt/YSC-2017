@@ -95,10 +95,10 @@ auto.arima algorithm\\[.2cm]
 \end{column}
 \end{columns}
 \vspace{0.5cm}
-\begin{itemize}
-\item For each model, optimize parameters using MLE
-\item Select best method using AICc
-\end{itemize} 
+###
+* For each model, optimize parameters using MLE
+* Select best method using AICc
+
 
 ## 
 \begin{block}{Motivation}
